@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Missing Avery</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 36px;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        p {
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Missing Avery</h1>
+    </header>
+    <main>
+        <p>Dear Avery,</p>
+        <p>Every moment apart feels like an eternity. I miss your smile, your laughter, and the warmth of your presence. The world just doesn't feel the same without you by my side.</p>
+        <p>This website is a small token of my love for you and a reminder of how much you mean to me. I can't wait to see you again soon and hold you close.</p>
+        <p>Until then, remember that you're always in my thoughts and in my heart. I love you more with each passing day.</p>
+    </main>
+</body>
+</html>
